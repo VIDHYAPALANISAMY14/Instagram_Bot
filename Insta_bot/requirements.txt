@@ -1,4 +1,1 @@
-selenium==4.10.0
-webdriver_manager
-undetected-chromedriver
-customtkinter
+instabot
